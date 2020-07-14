@@ -1,5 +1,5 @@
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+	<body>
+		<h1 style="color:navy-blue;">!just-try will helps you to browse everything at one place!</h1>
+	</body>
 </html>
