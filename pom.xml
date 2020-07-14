@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.dinakar726</groupId>
-  <artifactId>just-try</artifactId>
+  <artifactId>just-try-new</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>just-try Maven Webapp</name>
+  <name>just-try-new Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>just-try</finalName>
+    <finalName>just-try-new</finalName>
   </build>
 </project>
